@@ -6,12 +6,13 @@ using Genius.Infraestructure.Models;
 
 namespace Genius.API.Mapper;
 
-public class ImputToModel: Profile
-{public ImputToModel()
+public class InputToModel: Profile
+{public InputToModel()
     {
         CreateMap<DriverInput, Driver>();
         CreateMap<CarInput, Car>();
         CreateMap<OwnerInput, Owner>();
         CreateMap<UserInput, User>();
+        CreateMap<UserLoginInput, User>();
     }
 }

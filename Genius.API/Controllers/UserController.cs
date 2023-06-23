@@ -30,11 +30,11 @@ namespace Genius.API.Controllers
         [AllowAnonymous]
         [HttpPost]
         [Route("Login")]
-        public async Task<IActionResult> Login([FromBody] UserInput userInput)
+        public async Task<IActionResult> Login([FromBody] UserLoginInput userLoginInput)
         {
             try
             {
-                var user = _mapper.Map<UserInput, User>(userInput);
+                var user = _mapper.Map<UserLoginInput, User>(userLoginInput);
 
                 var jwt = await _userDomain.Login(user);
 
@@ -49,7 +49,7 @@ namespace Genius.API.Controllers
 
 
         // POST: api/User
-        [Filter.Authorize("admin")]
+        //[Filter.Authorize("admin")]
         [HttpPost(Name = "Signup")]
         public async Task<IActionResult> Signup([FromBody] UserInput userInput)
         {

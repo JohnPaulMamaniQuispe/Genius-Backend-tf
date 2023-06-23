@@ -62,7 +62,7 @@ builder.Services.AddDbContext<GeniusDBContext>(
 
 builder.Services.AddAutoMapper(
 typeof(ModelToResponse),
-typeof(ImputToModel));
+typeof(InputToModel));
 
 
 var app = builder.Build();
