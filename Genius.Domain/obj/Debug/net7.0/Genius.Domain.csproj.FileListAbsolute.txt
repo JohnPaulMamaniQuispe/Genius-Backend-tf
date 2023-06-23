@@ -1,0 +1,17 @@
+/Users/apple/RiderProjects/Genoius-Backend-v1/Genius.Domain/bin/Debug/net7.0/Genius.Domain.deps.json
+/Users/apple/RiderProjects/Genoius-Backend-v1/Genius.Domain/bin/Debug/net7.0/Genius.Domain.dll
+/Users/apple/RiderProjects/Genoius-Backend-v1/Genius.Domain/bin/Debug/net7.0/Genius.Domain.pdb
+/Users/apple/RiderProjects/Genoius-Backend-v1/Genius.Domain/bin/Debug/net7.0/Genius.Infraestructure.dll
+/Users/apple/RiderProjects/Genoius-Backend-v1/Genius.Domain/bin/Debug/net7.0/Genius.Infraestructure.pdb
+/Users/apple/RiderProjects/Genoius-Backend-v1/Genius.Domain/obj/Debug/net7.0/Genius.Domain.csproj.AssemblyReference.cache
+/Users/apple/RiderProjects/Genoius-Backend-v1/Genius.Domain/obj/Debug/net7.0/Genius.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/apple/RiderProjects/Genoius-Backend-v1/Genius.Domain/obj/Debug/net7.0/Genius.Domain.AssemblyInfoInputs.cache
+/Users/apple/RiderProjects/Genoius-Backend-v1/Genius.Domain/obj/Debug/net7.0/Genius.Domain.AssemblyInfo.cs
+/Users/apple/RiderProjects/Genoius-Backend-v1/Genius.Domain/obj/Debug/net7.0/Genius.Domain.csproj.CoreCompileInputs.cache
+/Users/apple/RiderProjects/Genoius-Backend-v1/Genius.Domain/obj/Debug/net7.0/Genius.Domain.csproj.CopyComplete
+/Users/apple/RiderProjects/Genoius-Backend-v1/Genius.Domain/obj/Debug/net7.0/Genius.Domain.dll
+/Users/apple/RiderProjects/Genoius-Backend-v1/Genius.Domain/obj/Debug/net7.0/refint/Genius.Domain.dll
+/Users/apple/RiderProjects/Genoius-Backend-v1/Genius.Domain/obj/Debug/net7.0/Genius.Domain.pdb
+/Users/apple/RiderProjects/Genoius-Backend-v1/Genius.Domain/obj/Debug/net7.0/ref/Genius.Domain.dll
+/Users/apple/RiderProjects/Genoius-Backend-v1/Genius.Domain/bin/Debug/net7.0/Genius.Shared.dll
+/Users/apple/RiderProjects/Genoius-Backend-v1/Genius.Domain/bin/Debug/net7.0/Genius.Shared.pdb

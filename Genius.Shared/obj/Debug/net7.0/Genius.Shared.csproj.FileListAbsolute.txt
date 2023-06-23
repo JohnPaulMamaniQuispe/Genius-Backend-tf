@@ -1,0 +1,12 @@
+/Users/apple/RiderProjects/Genoius-Backend-v1/Genius.Shared/bin/Debug/net7.0/Genius.Shared.deps.json
+/Users/apple/RiderProjects/Genoius-Backend-v1/Genius.Shared/bin/Debug/net7.0/Genius.Shared.dll
+/Users/apple/RiderProjects/Genoius-Backend-v1/Genius.Shared/bin/Debug/net7.0/Genius.Shared.pdb
+/Users/apple/RiderProjects/Genoius-Backend-v1/Genius.Shared/obj/Debug/net7.0/Genius.Shared.csproj.AssemblyReference.cache
+/Users/apple/RiderProjects/Genoius-Backend-v1/Genius.Shared/obj/Debug/net7.0/Genius.Shared.GeneratedMSBuildEditorConfig.editorconfig
+/Users/apple/RiderProjects/Genoius-Backend-v1/Genius.Shared/obj/Debug/net7.0/Genius.Shared.AssemblyInfoInputs.cache
+/Users/apple/RiderProjects/Genoius-Backend-v1/Genius.Shared/obj/Debug/net7.0/Genius.Shared.AssemblyInfo.cs
+/Users/apple/RiderProjects/Genoius-Backend-v1/Genius.Shared/obj/Debug/net7.0/Genius.Shared.csproj.CoreCompileInputs.cache
+/Users/apple/RiderProjects/Genoius-Backend-v1/Genius.Shared/obj/Debug/net7.0/Genius.Shared.dll
+/Users/apple/RiderProjects/Genoius-Backend-v1/Genius.Shared/obj/Debug/net7.0/refint/Genius.Shared.dll
+/Users/apple/RiderProjects/Genoius-Backend-v1/Genius.Shared/obj/Debug/net7.0/Genius.Shared.pdb
+/Users/apple/RiderProjects/Genoius-Backend-v1/Genius.Shared/obj/Debug/net7.0/ref/Genius.Shared.dll

@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Genius.API", "Genius.API\Genius.API.csproj", "{030A302B-F431-4234-B8A6-BAD2FCE91988}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Genius.Domain", "Genius.Domain\Genius.Domain.csproj", "{9414E439-D536-4E1C-B5B8-9FCCAC628270}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Genius.Infraestructure", "Genius.Infraestructure\Genius.Infraestructure.csproj", "{543F3CC5-B995-432F-A0A1-53B1541DEE3C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Genius.Shared", "Genius.Shared\Genius.Shared.csproj", "{D73E50B0-E70D-4A65-9420-E6B4E5722288}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{030A302B-F431-4234-B8A6-BAD2FCE91988}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{030A302B-F431-4234-B8A6-BAD2FCE91988}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{030A302B-F431-4234-B8A6-BAD2FCE91988}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{030A302B-F431-4234-B8A6-BAD2FCE91988}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9414E439-D536-4E1C-B5B8-9FCCAC628270}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9414E439-D536-4E1C-B5B8-9FCCAC628270}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9414E439-D536-4E1C-B5B8-9FCCAC628270}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9414E439-D536-4E1C-B5B8-9FCCAC628270}.Release|Any CPU.Build.0 = Release|Any CPU
+		{543F3CC5-B995-432F-A0A1-53B1541DEE3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{543F3CC5-B995-432F-A0A1-53B1541DEE3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{543F3CC5-B995-432F-A0A1-53B1541DEE3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{543F3CC5-B995-432F-A0A1-53B1541DEE3C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D73E50B0-E70D-4A65-9420-E6B4E5722288}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D73E50B0-E70D-4A65-9420-E6B4E5722288}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D73E50B0-E70D-4A65-9420-E6B4E5722288}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D73E50B0-E70D-4A65-9420-E6B4E5722288}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
