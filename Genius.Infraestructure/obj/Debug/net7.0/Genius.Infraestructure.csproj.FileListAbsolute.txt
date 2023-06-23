@@ -12,3 +12,17 @@
 /Users/apple/RiderProjects/Genoius-Backend-v1/Genius.Infraestructure/obj/Debug/net7.0/ref/Genius.Infraestructure.dll
 /Users/apple/RiderProjects/Genoius-Backend-v1/Genius.Infraestructure/bin/Debug/net7.0/Genius.Infraestructure.runtimeconfig.json
 /Users/apple/RiderProjects/Genoius-Backend-v1/Genius.Infraestructure/obj/Debug/net7.0/Genius.Infraestructure.genruntimeconfig.cache
+/Users/apple/Desktop/UPC/CICLO 2023-1/Aplicaciones Web/Genius-Backend-vf/Genius.Infraestructure/bin/Debug/net7.0/Genius.Infraestructure.deps.json
+/Users/apple/Desktop/UPC/CICLO 2023-1/Aplicaciones Web/Genius-Backend-vf/Genius.Infraestructure/bin/Debug/net7.0/Genius.Infraestructure.runtimeconfig.json
+/Users/apple/Desktop/UPC/CICLO 2023-1/Aplicaciones Web/Genius-Backend-vf/Genius.Infraestructure/bin/Debug/net7.0/Genius.Infraestructure.dll
+/Users/apple/Desktop/UPC/CICLO 2023-1/Aplicaciones Web/Genius-Backend-vf/Genius.Infraestructure/bin/Debug/net7.0/Genius.Infraestructure.pdb
+/Users/apple/Desktop/UPC/CICLO 2023-1/Aplicaciones Web/Genius-Backend-vf/Genius.Infraestructure/obj/Debug/net7.0/Genius.Infraestructure.csproj.AssemblyReference.cache
+/Users/apple/Desktop/UPC/CICLO 2023-1/Aplicaciones Web/Genius-Backend-vf/Genius.Infraestructure/obj/Debug/net7.0/Genius.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/apple/Desktop/UPC/CICLO 2023-1/Aplicaciones Web/Genius-Backend-vf/Genius.Infraestructure/obj/Debug/net7.0/Genius.Infraestructure.AssemblyInfoInputs.cache
+/Users/apple/Desktop/UPC/CICLO 2023-1/Aplicaciones Web/Genius-Backend-vf/Genius.Infraestructure/obj/Debug/net7.0/Genius.Infraestructure.AssemblyInfo.cs
+/Users/apple/Desktop/UPC/CICLO 2023-1/Aplicaciones Web/Genius-Backend-vf/Genius.Infraestructure/obj/Debug/net7.0/Genius.Infraestructure.csproj.CoreCompileInputs.cache
+/Users/apple/Desktop/UPC/CICLO 2023-1/Aplicaciones Web/Genius-Backend-vf/Genius.Infraestructure/obj/Debug/net7.0/Genius.Infraestructure.dll
+/Users/apple/Desktop/UPC/CICLO 2023-1/Aplicaciones Web/Genius-Backend-vf/Genius.Infraestructure/obj/Debug/net7.0/refint/Genius.Infraestructure.dll
+/Users/apple/Desktop/UPC/CICLO 2023-1/Aplicaciones Web/Genius-Backend-vf/Genius.Infraestructure/obj/Debug/net7.0/Genius.Infraestructure.pdb
+/Users/apple/Desktop/UPC/CICLO 2023-1/Aplicaciones Web/Genius-Backend-vf/Genius.Infraestructure/obj/Debug/net7.0/Genius.Infraestructure.genruntimeconfig.cache
+/Users/apple/Desktop/UPC/CICLO 2023-1/Aplicaciones Web/Genius-Backend-vf/Genius.Infraestructure/obj/Debug/net7.0/ref/Genius.Infraestructure.dll

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ij0rYGBQeNaUE09QFcuH1dwnXkeCBvIwnxHtAmuy208IGw305/2eW1o7Q6C7IDLkokeWK08eNdGXMOia5heLBw==",
+  "dgSpecHash": "LVWroaID7mBoq3qsh3iQ7C1cR3+UORa2klVVMuwPhdHE1o/nzqjw9mSBqAo9L7TZtBbrGWiN9hLgm+MzCjLf+g==",
   "success": true,
-  "projectFilePath": "/Users/apple/RiderProjects/Genoius-Backend-v1/Genius.API/Genius.API.csproj",
+  "projectFilePath": "/Users/apple/Desktop/UPC/CICLO 2023-1/Aplicaciones Web/Genius-Backend-vf/Genius.API/Genius.API.csproj",
   "expectedPackageFiles": [
     "/Users/apple/.nuget/packages/automapper/12.0.1/automapper.12.0.1.nupkg.sha512",
     "/Users/apple/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/12.0.1/automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
