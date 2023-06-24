@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="EfCoreDialogsState">
+    <option name="keyValueStorage">
+      <map>
+        <entry key="Common:030a302b-f431-4234-b8a6-bad2fce91988:dbContext" value="Genius.Infraestructure.Context.GeniusDBContext" />
+        <entry key="Common:543f3cc5-b995-432f-a0a1-53b1541dee3c:dbContext" value="Genius.Infraestructure.Context.GeniusDBContext" />
+        <entry key="Common:buildConfiguration" value="Debug" />
+        <entry key="Common:noBuild" value="false" />
+        <entry key="Common:outputFolder" value="Migrations" />
+        <entry key="Common:useDefaultConnection" value="true" />
+      </map>
+    </option>
+  </component>
+</project>
