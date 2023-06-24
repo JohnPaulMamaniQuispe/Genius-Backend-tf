@@ -53,7 +53,6 @@ public class DriverInfraestructure: IDriverInfraestructure
             }
     }
     
-
     public async Task<bool> Update(int id, Driver input)
     {
         try

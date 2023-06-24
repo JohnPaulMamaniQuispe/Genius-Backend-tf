@@ -3,8 +3,7 @@ using Genius.Infraestructure.Shared;
 namespace Genius.Infraestructure.Models;
 
 public class Driver : BaseModel
-{
-    public int Id { get; set; }
+{ 
     public string Name { get; set; }
     public int Age { get; set; }
     public string License { get; set; }

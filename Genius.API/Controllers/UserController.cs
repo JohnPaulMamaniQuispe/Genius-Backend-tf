@@ -4,8 +4,11 @@ using System.Linq;
 using System.Threading.Tasks;
 using AutoMapper;
 using Genius.API.Input;
+using Genius.API.Response;
 using Genius.Domain;
+using Genius.Infraestructure;
 using Genius.Infraestructure.Model;
+using Genius.Infraestructure.Models;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
@@ -19,13 +22,26 @@ namespace Genius.API.Controllers
         
         private IUserDomain _userDomain;
         private IMapper _mapper;
+        private IUserInfraestructure _userInfraestructure;
 
-        public UserController(IUserDomain userDomain, IMapper mapper)
+        public UserController(IUserDomain userDomain, IMapper mapper,IUserInfraestructure userInfraestructure )
         {
             _userDomain = userDomain;
             _mapper = mapper;
+            _userInfraestructure = userInfraestructure;
         }
 
+        
+        // GET: api/Driver
+        [HttpGet]
+        public async Task<List<UserResponse>> Get()
+        {
+            var result = await _userInfraestructure.GetAll();
+
+            var list = _mapper.Map<List<User>, List<UserResponse>>(result);
+            return list;
+        }
+        
         // GET: api/User
         [AllowAnonymous]
         [HttpPost]

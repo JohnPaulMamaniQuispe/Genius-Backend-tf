@@ -9,6 +9,11 @@ public class UserInfraestructure : IUserInfraestructure
 
     private GeniusDBContext _geniusDbContext;
 
+    public async Task<List<User>> GetAll()
+    {
+        return await _geniusDbContext.Users.Where(user=> user.IsActive).ToListAsync();
+    }
+    
     public UserInfraestructure(GeniusDBContext geniusDbContext)
     {
         _geniusDbContext = geniusDbContext;

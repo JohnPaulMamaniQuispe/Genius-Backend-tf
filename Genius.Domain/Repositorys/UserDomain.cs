@@ -16,6 +16,11 @@ public class UserDomain:IUserDomain
         _tokenDomain = tokenDomain;
     }
 
+    public Task<List<User>> GetAll()
+    {
+        return _userInfraestructure.GetAll();
+    }
+
     public async Task<string> Login(User user)
     {
         var foundUser = await _userInfraestructure.GetByUsername(user.Username);
