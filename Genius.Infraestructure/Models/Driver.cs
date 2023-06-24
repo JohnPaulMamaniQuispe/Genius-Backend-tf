@@ -10,7 +10,7 @@ public class Driver : BaseModel
     public string Phone { get; set; }
     
     public  List<Car> Cars { get; set; } //  tengo una lista de cars el modelo driver
-    
+    public  List<Reservation> Reservations { get; set; }
     
    // public bool IsActive { get; set; }
 

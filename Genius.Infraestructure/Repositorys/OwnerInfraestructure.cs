@@ -19,28 +19,60 @@ public class OwnerInfraestructure:IOwnerInfraestructure
         return await _geniusDbContext.Owners.Where(owner => owner.IsActive).ToListAsync();
     }
 
-    public Task<List<Owner>> GetByfirtname(string firtname)
+    public async Task<List<Owner>> GetByFirtname(string firtname)
     {
-        throw new NotImplementedException();
+        //return _learningCenterDbContext.Tutorials.Where(tutorial => tutorial.IsActive && tutorial.Name == name).ToList(); //Nombre exacto
+        return await  _geniusDbContext.Owners.Where(owner => owner.IsActive && owner.FirstName.Contains(firtname)).ToListAsync(); //Contiene parte
     }
 
     public Owner GetById(int id)
     {
-        throw new NotImplementedException();
+        return _geniusDbContext.Owners.Single(owner=> owner.IsActive && owner.Id ==id);
     }
 
-    public Task<bool> CreateAsync(Owner input)
+    public async Task<bool> CreateAsync(Owner owner)
     {
-        throw new NotImplementedException();
+        try
+        {
+            owner.IsActive = true;
+            owner.DateCreated = DateTime.Now;
+            await _geniusDbContext.Owners.AddAsync(owner);
+            await _geniusDbContext.SaveChangesAsync();
+            return true;
+        }
+        catch (Exception exception)
+        {
+            throw;
+            return false;
+        }
     }
 
-    public Task<bool> Update(int id, Owner input)
+    public async Task<bool> Update(int id, Owner input)
     {
-        throw new NotImplementedException();
+        try
+        {
+            var owner = _geniusDbContext.Owners.Find(id); // var son procesados antes de iniciar codigo 
+            owner.FirstName = input.FirstName;
+            owner.LastName = input.LastName;
+            owner.Phone = input.Phone;
+            owner.Email = input.Email;
+            owner.DateUpdated = DateTime.Now;
+            await _geniusDbContext.SaveChangesAsync();
+            return true;
+        }
+        catch (Exception exception)
+        {
+            return false;
+        }
     }
 
-    public Task<bool> Delete(int id)
+    public async Task<bool> Delete(int id)
     {
-        throw new NotImplementedException();
+        var owner = _geniusDbContext.Owners.Find(id); //obtengo con id
+        owner.IsActive = false;
+        _geniusDbContext.Owners.Remove(owner);
+        _geniusDbContext.Owners.Update(owner);
+        await _geniusDbContext.SaveChangesAsync();
+        return true;
     }
 }

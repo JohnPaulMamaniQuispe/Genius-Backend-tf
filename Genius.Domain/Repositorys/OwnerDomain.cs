@@ -15,19 +15,19 @@ public class OwnerDomain:IOwnerDomain
         return _ownerInfraestructure.GetAll();
     }
 
-    public async  Task<bool> CreateAsync(Owner input)
+    public async  Task<bool> CreateAsync(Owner owner)
     {
-        return await _ownerInfraestructure.CreateAsync(input);
+        return await _ownerInfraestructure.CreateAsync(owner);
         
     }
 
-    public  Task<bool> Update(int id, Owner input)
+    public  async Task<bool> Update(int id, Owner owner)
     {
-        return  _ownerInfraestructure.Update(id,input);
+        return  await  _ownerInfraestructure.Update(id, owner);
     }
 
-    public  Task<bool> Delete(int id)
+    public async Task<bool> Delete(int id)
     {
-        return  _ownerInfraestructure.Delete(id);
+        return await _ownerInfraestructure.Delete(id);
     }
 }

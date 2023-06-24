@@ -9,10 +9,16 @@ namespace Genius.API.Mapper;
 public class InputToModel: Profile
 {public InputToModel()
     {
-        CreateMap<DriverInput, Driver>();
-        CreateMap<CarInput, Car>();
-        CreateMap<OwnerInput, Owner>();
         CreateMap<UserInput, User>();
+        CreateMap<CarInput, Car>();
+        CreateMap<DriverInput, Driver>();
+        CreateMap<ReservationInput,Reservation>();
+        CreateMap<ParkingInput, Parking>();
+        CreateMap<PaymentMethodInput, PaymentMethod>();
+        CreateMap<OwnerInput, Owner>();
+        CreateMap<PlaceInput, Place>();
+        CreateMap<OwnerTypeInput, OwnerType>();
         CreateMap<UserLoginInput, User>();
+        
     }
 }

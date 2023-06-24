@@ -6,7 +6,7 @@ public interface IOwnerDomain
 {
        
     public Task<List<Owner>> GetAll();
-    Task <bool>CreateAsync(Owner input);
-    Task <bool>Update(int id,  Owner input);
-    Task<bool> Delete(int id);
+    Task <Boolean>CreateAsync(Owner input);
+    Task <Boolean>Update(int id,  Owner input);
+    Task<Boolean> Delete(int id);
 }
