@@ -5663,11 +5663,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/apple/Desktop/UPC/CICLO 2023-1/Aplicaciones Web/Genius-Backend-vf/Genius.Domain/Genius.Domain.csproj",
+      "projectUniqueName": "/Users/apple/Desktop/UPC/CICLO 2023-1/Aplicaciones Web/Genius-Backend-vf/Genius-Backend-v1/Genius.Domain/Genius.Domain.csproj",
       "projectName": "Genius.Domain",
-      "projectPath": "/Users/apple/Desktop/UPC/CICLO 2023-1/Aplicaciones Web/Genius-Backend-vf/Genius.Domain/Genius.Domain.csproj",
+      "projectPath": "/Users/apple/Desktop/UPC/CICLO 2023-1/Aplicaciones Web/Genius-Backend-vf/Genius-Backend-v1/Genius.Domain/Genius.Domain.csproj",
       "packagesPath": "/Users/apple/.nuget/packages/",
-      "outputPath": "/Users/apple/Desktop/UPC/CICLO 2023-1/Aplicaciones Web/Genius-Backend-vf/Genius.Domain/obj/",
+      "outputPath": "/Users/apple/Desktop/UPC/CICLO 2023-1/Aplicaciones Web/Genius-Backend-vf/Genius-Backend-v1/Genius.Domain/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/apple/.nuget/NuGet/NuGet.Config"
@@ -5682,11 +5682,11 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "/Users/apple/Desktop/UPC/CICLO 2023-1/Aplicaciones Web/Genius-Backend-vf/Genius.Infraestructure/Genius.Infraestructure.csproj": {
-              "projectPath": "/Users/apple/Desktop/UPC/CICLO 2023-1/Aplicaciones Web/Genius-Backend-vf/Genius.Infraestructure/Genius.Infraestructure.csproj"
+            "/Users/apple/Desktop/UPC/CICLO 2023-1/Aplicaciones Web/Genius-Backend-vf/Genius-Backend-v1/Genius.Infraestructure/Genius.Infraestructure.csproj": {
+              "projectPath": "/Users/apple/Desktop/UPC/CICLO 2023-1/Aplicaciones Web/Genius-Backend-vf/Genius-Backend-v1/Genius.Infraestructure/Genius.Infraestructure.csproj"
             },
-            "/Users/apple/Desktop/UPC/CICLO 2023-1/Aplicaciones Web/Genius-Backend-vf/Genius.Shared/Genius.Shared.csproj": {
-              "projectPath": "/Users/apple/Desktop/UPC/CICLO 2023-1/Aplicaciones Web/Genius-Backend-vf/Genius.Shared/Genius.Shared.csproj"
+            "/Users/apple/Desktop/UPC/CICLO 2023-1/Aplicaciones Web/Genius-Backend-vf/Genius-Backend-v1/Genius.Shared/Genius.Shared.csproj": {
+              "projectPath": "/Users/apple/Desktop/UPC/CICLO 2023-1/Aplicaciones Web/Genius-Backend-vf/Genius-Backend-v1/Genius.Shared/Genius.Shared.csproj"
             }
           }
         }

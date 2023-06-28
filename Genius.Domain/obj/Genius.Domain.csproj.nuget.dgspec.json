@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/apple/Desktop/UPC/CICLO 2023-1/Aplicaciones Web/Genius-Backend-vf/Genius.Domain/Genius.Domain.csproj": {}
+    "/Users/apple/Desktop/UPC/CICLO 2023-1/Aplicaciones Web/Genius-Backend-vf/Genius-Backend-v1/Genius.Domain/Genius.Domain.csproj": {}
   },
   "projects": {
-    "/Users/apple/Desktop/UPC/CICLO 2023-1/Aplicaciones Web/Genius-Backend-vf/Genius.Domain/Genius.Domain.csproj": {
+    "/Users/apple/Desktop/UPC/CICLO 2023-1/Aplicaciones Web/Genius-Backend-vf/Genius-Backend-v1/Genius.Domain/Genius.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/apple/Desktop/UPC/CICLO 2023-1/Aplicaciones Web/Genius-Backend-vf/Genius.Domain/Genius.Domain.csproj",
+        "projectUniqueName": "/Users/apple/Desktop/UPC/CICLO 2023-1/Aplicaciones Web/Genius-Backend-vf/Genius-Backend-v1/Genius.Domain/Genius.Domain.csproj",
         "projectName": "Genius.Domain",
-        "projectPath": "/Users/apple/Desktop/UPC/CICLO 2023-1/Aplicaciones Web/Genius-Backend-vf/Genius.Domain/Genius.Domain.csproj",
+        "projectPath": "/Users/apple/Desktop/UPC/CICLO 2023-1/Aplicaciones Web/Genius-Backend-vf/Genius-Backend-v1/Genius.Domain/Genius.Domain.csproj",
         "packagesPath": "/Users/apple/.nuget/packages/",
-        "outputPath": "/Users/apple/Desktop/UPC/CICLO 2023-1/Aplicaciones Web/Genius-Backend-vf/Genius.Domain/obj/",
+        "outputPath": "/Users/apple/Desktop/UPC/CICLO 2023-1/Aplicaciones Web/Genius-Backend-vf/Genius-Backend-v1/Genius.Domain/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/apple/.nuget/NuGet/NuGet.Config"
@@ -26,11 +26,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "/Users/apple/Desktop/UPC/CICLO 2023-1/Aplicaciones Web/Genius-Backend-vf/Genius.Infraestructure/Genius.Infraestructure.csproj": {
-                "projectPath": "/Users/apple/Desktop/UPC/CICLO 2023-1/Aplicaciones Web/Genius-Backend-vf/Genius.Infraestructure/Genius.Infraestructure.csproj"
+              "/Users/apple/Desktop/UPC/CICLO 2023-1/Aplicaciones Web/Genius-Backend-vf/Genius-Backend-v1/Genius.Infraestructure/Genius.Infraestructure.csproj": {
+                "projectPath": "/Users/apple/Desktop/UPC/CICLO 2023-1/Aplicaciones Web/Genius-Backend-vf/Genius-Backend-v1/Genius.Infraestructure/Genius.Infraestructure.csproj"
               },
-              "/Users/apple/Desktop/UPC/CICLO 2023-1/Aplicaciones Web/Genius-Backend-vf/Genius.Shared/Genius.Shared.csproj": {
-                "projectPath": "/Users/apple/Desktop/UPC/CICLO 2023-1/Aplicaciones Web/Genius-Backend-vf/Genius.Shared/Genius.Shared.csproj"
+              "/Users/apple/Desktop/UPC/CICLO 2023-1/Aplicaciones Web/Genius-Backend-vf/Genius-Backend-v1/Genius.Shared/Genius.Shared.csproj": {
+                "projectPath": "/Users/apple/Desktop/UPC/CICLO 2023-1/Aplicaciones Web/Genius-Backend-vf/Genius-Backend-v1/Genius.Shared/Genius.Shared.csproj"
               }
             }
           }
@@ -78,14 +78,14 @@
         }
       }
     },
-    "/Users/apple/Desktop/UPC/CICLO 2023-1/Aplicaciones Web/Genius-Backend-vf/Genius.Infraestructure/Genius.Infraestructure.csproj": {
+    "/Users/apple/Desktop/UPC/CICLO 2023-1/Aplicaciones Web/Genius-Backend-vf/Genius-Backend-v1/Genius.Infraestructure/Genius.Infraestructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/apple/Desktop/UPC/CICLO 2023-1/Aplicaciones Web/Genius-Backend-vf/Genius.Infraestructure/Genius.Infraestructure.csproj",
+        "projectUniqueName": "/Users/apple/Desktop/UPC/CICLO 2023-1/Aplicaciones Web/Genius-Backend-vf/Genius-Backend-v1/Genius.Infraestructure/Genius.Infraestructure.csproj",
         "projectName": "Genius.Infraestructure",
-        "projectPath": "/Users/apple/Desktop/UPC/CICLO 2023-1/Aplicaciones Web/Genius-Backend-vf/Genius.Infraestructure/Genius.Infraestructure.csproj",
+        "projectPath": "/Users/apple/Desktop/UPC/CICLO 2023-1/Aplicaciones Web/Genius-Backend-vf/Genius-Backend-v1/Genius.Infraestructure/Genius.Infraestructure.csproj",
         "packagesPath": "/Users/apple/.nuget/packages/",
-        "outputPath": "/Users/apple/Desktop/UPC/CICLO 2023-1/Aplicaciones Web/Genius-Backend-vf/Genius.Infraestructure/obj/",
+        "outputPath": "/Users/apple/Desktop/UPC/CICLO 2023-1/Aplicaciones Web/Genius-Backend-vf/Genius-Backend-v1/Genius.Infraestructure/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/apple/.nuget/NuGet/NuGet.Config"
@@ -155,14 +155,14 @@
         }
       }
     },
-    "/Users/apple/Desktop/UPC/CICLO 2023-1/Aplicaciones Web/Genius-Backend-vf/Genius.Shared/Genius.Shared.csproj": {
+    "/Users/apple/Desktop/UPC/CICLO 2023-1/Aplicaciones Web/Genius-Backend-vf/Genius-Backend-v1/Genius.Shared/Genius.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/apple/Desktop/UPC/CICLO 2023-1/Aplicaciones Web/Genius-Backend-vf/Genius.Shared/Genius.Shared.csproj",
+        "projectUniqueName": "/Users/apple/Desktop/UPC/CICLO 2023-1/Aplicaciones Web/Genius-Backend-vf/Genius-Backend-v1/Genius.Shared/Genius.Shared.csproj",
         "projectName": "Genius.Shared",
-        "projectPath": "/Users/apple/Desktop/UPC/CICLO 2023-1/Aplicaciones Web/Genius-Backend-vf/Genius.Shared/Genius.Shared.csproj",
+        "projectPath": "/Users/apple/Desktop/UPC/CICLO 2023-1/Aplicaciones Web/Genius-Backend-vf/Genius-Backend-v1/Genius.Shared/Genius.Shared.csproj",
         "packagesPath": "/Users/apple/.nuget/packages/",
-        "outputPath": "/Users/apple/Desktop/UPC/CICLO 2023-1/Aplicaciones Web/Genius-Backend-vf/Genius.Shared/obj/",
+        "outputPath": "/Users/apple/Desktop/UPC/CICLO 2023-1/Aplicaciones Web/Genius-Backend-vf/Genius-Backend-v1/Genius.Shared/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/apple/.nuget/NuGet/NuGet.Config"

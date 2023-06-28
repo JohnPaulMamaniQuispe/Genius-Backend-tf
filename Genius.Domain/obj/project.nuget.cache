@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Jlc/IIsBR/+I/Oh2V8Qws66S19OdefBRuJe5aO720UDKPEf7CpxDlo8/0oD4HWB0n/uHLb55FHYl3okyHuB3Hw==",
+  "dgSpecHash": "njmkkbIr57Zo5OXdr9ovkDl89ToO7dd37leycPdtLYi/7RwH8AId9O82fFYYaO6Gx9XO03qb6XcILIxdyuYRoQ==",
   "success": true,
-  "projectFilePath": "/Users/apple/Desktop/UPC/CICLO 2023-1/Aplicaciones Web/Genius-Backend-vf/Genius.Domain/Genius.Domain.csproj",
+  "projectFilePath": "/Users/apple/Desktop/UPC/CICLO 2023-1/Aplicaciones Web/Genius-Backend-vf/Genius-Backend-v1/Genius.Domain/Genius.Domain.csproj",
   "expectedPackageFiles": [
     "/Users/apple/.nuget/packages/microsoft.csharp/4.5.0/microsoft.csharp.4.5.0.nupkg.sha512",
     "/Users/apple/.nuget/packages/microsoft.entityframeworkcore/7.0.7/microsoft.entityframeworkcore.7.0.7.nupkg.sha512",

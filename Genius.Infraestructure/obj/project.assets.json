@@ -5614,11 +5614,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/apple/Desktop/UPC/CICLO 2023-1/Aplicaciones Web/Genius-Backend-vf/Genius.Infraestructure/Genius.Infraestructure.csproj",
+      "projectUniqueName": "/Users/apple/Desktop/UPC/CICLO 2023-1/Aplicaciones Web/Genius-Backend-vf/Genius-Backend-v1/Genius.Infraestructure/Genius.Infraestructure.csproj",
       "projectName": "Genius.Infraestructure",
-      "projectPath": "/Users/apple/Desktop/UPC/CICLO 2023-1/Aplicaciones Web/Genius-Backend-vf/Genius.Infraestructure/Genius.Infraestructure.csproj",
+      "projectPath": "/Users/apple/Desktop/UPC/CICLO 2023-1/Aplicaciones Web/Genius-Backend-vf/Genius-Backend-v1/Genius.Infraestructure/Genius.Infraestructure.csproj",
       "packagesPath": "/Users/apple/.nuget/packages/",
-      "outputPath": "/Users/apple/Desktop/UPC/CICLO 2023-1/Aplicaciones Web/Genius-Backend-vf/Genius.Infraestructure/obj/",
+      "outputPath": "/Users/apple/Desktop/UPC/CICLO 2023-1/Aplicaciones Web/Genius-Backend-vf/Genius-Backend-v1/Genius.Infraestructure/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/apple/.nuget/NuGet/NuGet.Config"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "h/VT4VlA2LQsGBXqURXmune0e5jpVkRjBiTxHyRkJNLoyQOWSIyA5/rGkXVYxXrMGN+Ihwueq54SfchWs6gGDA==",
+  "dgSpecHash": "cR9QDBITwOp0rdFD3koxe4pozkwOyQnBeTlXjOnsn3uBPiXE1lfrvyHFWxdOsYgCjHP7qKUG24eJ3UL0E+N9sw==",
   "success": true,
-  "projectFilePath": "/Users/apple/Desktop/UPC/CICLO 2023-1/Aplicaciones Web/Genius-Backend-vf/Genius.Infraestructure/Genius.Infraestructure.csproj",
+  "projectFilePath": "/Users/apple/Desktop/UPC/CICLO 2023-1/Aplicaciones Web/Genius-Backend-vf/Genius-Backend-v1/Genius.Infraestructure/Genius.Infraestructure.csproj",
   "expectedPackageFiles": [
     "/Users/apple/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
     "/Users/apple/.nuget/packages/microsoft.entityframeworkcore/7.0.7/microsoft.entityframeworkcore.7.0.7.nupkg.sha512",
